@@ -1,5 +1,7 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q47006779,President of Mali,Q912,Q912,,,1960-06-20,,,,
+Q47006779,President of Mali,Q912,Q912,Q104858893,,1960-06-20,,,,
+Q113669206,Chairman of the National Committee for the Salvation of the People,Q912,Q912,,,,,,,
+Q104858893,Vice President of Mali,Q912,Q912,,,,,,,Vice President of Mali
 Q30100640,Prime Minister of Mali,Q912,Q912,,Q1264364,1960-06-20,,,,
 Q98915395,Agriculture Minister of Mali,Q912,,,,,,,,
 Q98915482,Defense minister of Mali,Q912,,,,,,,,
