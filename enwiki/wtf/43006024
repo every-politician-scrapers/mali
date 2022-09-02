@@ -1,0 +1,123 @@
+{
+  "title": "Salif Traoré",
+  "pageID": 43006024,
+  "categories": [
+    "Living people",
+    "École Spéciale Militaire de Saint-Cyr alumni",
+    "Government ministers of Mali",
+    "Year of birth missing (living people)",
+    "21st-century Malian people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "General Salif Traoré is a Malian politician.",
+              "formatting": {
+                "bold": [
+                  "Salif Traoré"
+                ]
+              }
+            },
+            {
+              "text": "He graduated from the École spéciale militaire de Saint-Cyr.",
+              "links": [
+                {
+                  "text": "École spéciale militaire de Saint-Cyr",
+                  "type": "internal",
+                  "page": "École spéciale militaire de Saint-Cyr"
+                }
+              ]
+            },
+            {
+              "text": "He has served as the Malian Minister of Security & Civilian Protection since September 2015.",
+              "links": [
+                {
+                  "text": "Minister",
+                  "type": "internal",
+                  "page": "Minister (government)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Security"
+                },
+                {
+                  "type": "internal",
+                  "page": "Civilian"
+                },
+                {
+                  "type": "internal",
+                  "page": "Protection"
+                }
+              ]
+            },
+            {
+              "text": "He believes in combatting terrorism by collecting better intelligence.",
+              "links": [
+                {
+                  "text": "terrorism",
+                  "type": "internal",
+                  "page": "terrorism"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Malian politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "fetchwikidata": {
+            "text": "ALL"
+          }
+        }
+      ],
+      "references": [
+        {
+          "last1": "Freland",
+          "first1": "François-Xavier",
+          "title": "Vidéo – Salif Traoré : \" Le Mali lutte contre le terrorisme d’abord grâce à un travail de renseignement \"",
+          "url": "http://www.jeuneafrique.com/337380/politique/video-salif-traore-mali-lutte-contre-terrorisme-dabord-grace-a-travail-de-renseignement/",
+          "accessdate": "May 21, 2017",
+          "work": "Jeune Afrique",
+          "date": "28 June 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Chiefs of State and Cabinet Members of Foreign Governments: Mali",
+          "url": "https://www.cia.gov/library/publications/world-leaders-1/ML.html",
+          "archive-url": "https://web.archive.org/web/20131004233701/https://www.cia.gov/library/publications/world-leaders-1/ML.html",
+          "url-status": "dead",
+          "archive-date": "October 4, 2013",
+          "website": "Central Intelligence Agency",
+          "accessdate": "May 21, 2017",
+          "date": "September 6, 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "mali-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,974 @@
+{
+  "title": "Assimi Goïta",
+  "pageID": 65000306,
+  "categories": [
+    "1983 births",
+    "Living people",
+    "Year of birth uncertain",
+    "Date of birth missing (living people)",
+    "Leaders who took power by coup",
+    "Heads of state of Mali",
+    "Malian military personnel",
+    "Vice presidents of Mali",
+    "Colonels (military rank)",
+    "21st-century Malian people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Colonel Assimi Goïta (born c. undefined 1983) is a Malian military officer who has been serving as interim President of Mali since 28 May 2021.",
+              "links": [
+                {
+                  "text": "Malian",
+                  "type": "internal",
+                  "page": "Mali"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of Mali"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Assimi Goïta"
+                ]
+              }
+            },
+            {
+              "text": "Goïta was the leader of the, a military junta that seized power from former president Ibrahim Boubacar Keïta in the 2020 Malian coup d'état.",
+              "links": [
+                {
+                  "text": "military junta",
+                  "type": "internal",
+                  "page": "military junta"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ibrahim Boubacar Keïta"
+                },
+                {
+                  "text": "2020 Malian coup d'état",
+                  "type": "internal",
+                  "page": "2020 Malian coup d'état"
+                }
+              ]
+            },
+            {
+              "text": "Goïta later took power from Bah Ndaw after the 2021 Malian coup d'état and has since been constitutionally declared interim president of Mali.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bah Ndaw"
+                },
+                {
+                  "text": "2021 Malian coup d'état",
+                  "type": "internal",
+                  "page": "2021 Malian coup d'état"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "President of Mali since 2021",
+          "template": "short description"
+        },
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "birth_year": "1983",
+          "template": "birth year and age"
+        },
+        {
+          "list": [
+            "National Committee for the Salvation of the People",
+            "fr",
+            "Comité national pour le salut du peuple"
+          ],
+          "template": "interlanguage link"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Colonel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Colonel"
+              }
+            ]
+          },
+          "name": {
+            "text": "Assimi Goïta"
+          },
+          "image": {
+            "text": "Assimi Goita, August 2021 (cropped).png"
+          },
+          "office": {
+            "text": "Interim President of Mali",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Mali"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Choguel Kokalla Maïga (acting) Abdoulaye Maïga (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Choguel Kokalla Maïga"
+              },
+              {
+                "text": "Abdoulaye Maïga",
+                "type": "internal",
+                "page": "Abdoulaye Maïga (officer)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 May 2021"
+          },
+          "predecessor": {
+            "text": "Bah Ndaw (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bah Ndaw"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Vice President of Mali",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vice President of Mali"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Bah Ndaw",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bah Ndaw"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "25 September 2020"
+          },
+          "term_end1": {
+            "text": "24 May 2021"
+          },
+          "predecessor1": {
+            "text": "Malick Diaw",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Malick Diaw"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Vacant",
+            "formatting": {
+              "italic": [
+                "Vacant"
+              ]
+            }
+          },
+          "office2": {
+            "text": "Chairman of the National Committee for the Salvation of the People of Mali",
+            "links": [
+              {
+                "text": "Chairman of the National Committee for the Salvation of the People",
+                "type": "internal",
+                "page": "List of heads of state of Mali"
+              },
+              {
+                "type": "internal",
+                "page": "Mali"
+              }
+            ]
+          },
+          "deputy2": {
+            "text": "Malick Diaw",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Malick Diaw"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Vacant",
+            "formatting": {
+              "italic": [
+                "Vacant"
+              ]
+            }
+          },
+          "term_start2": {
+            "text": "18 August 2020"
+          },
+          "term_end2": {
+            "text": "25 September 2020"
+          },
+          "predecessor2": {
+            "text": "Ibrahim Boubacar Keïta (president)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ibrahim Boubacar Keïta"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Bah Ndaw (acting president)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bah Ndaw"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "c. undefined 1983 (age 39)"
+          },
+          "birth_place": {
+            "text": "Mali",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mali"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Lala Diallo"
+          },
+          "alma_mater": {
+            "text": "Joint Military School in Koulikoro Prytanée militaire de Kati"
+          },
+          "allegiance": {
+            "text": "🇲🇱 Mali",
+            "links": [
+              {
+                "text": "Mali",
+                "type": "internal",
+                "page": "mali"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Malian Armed Forces",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Malian Armed Forces"
+              }
+            ]
+          },
+          "rank": {
+            "text": "Colonel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Colonel"
+              }
+            ]
+          },
+          "unit": {
+            "text": "Autonomous Special Forces Battalion"
+          },
+          "battles": {
+            "text": "Mali War",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mali War"
+              }
+            ]
+          },
+          "caption": {
+            "text": "Goïta in August 2021"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.efe.com/efe/espana/mundo/el-coronel-assimi-goita-designado-nuevo-hombre-fuerte-de-mali-tras-golpe/10001-4322436",
+          "title": "El coronel Assimi Goita, designado nuevo hombre fuerte de Mali tras el golpe",
+          "trans-title": "Colonel Assimi Goita appointed Mali's new strongman after the coup",
+          "website": "efe.com",
+          "date": "19 August 2020",
+          "access-date": "19 August 2020",
+          "language": "es",
+          "archive-date": "20 August 2020",
+          "archive-url": "https://web.archive.org/web/20200820073651/https://www.efe.com/efe/espana/mundo/el-coronel-assimi-goita-designado-nuevo-hombre-fuerte-de-mali-tras-golpe/10001-4322436",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.theguardian.com/world/2021/may/24/mali-president-prime-minister-and-defence-minister-arrested-sources-say",
+          "title": "Mali: leader of 2020 coup takes power after president's arrest",
+          "work": "The Guardian",
+          "author": "Emmanuel Akinwotu",
+          "location": "Lagos, Nigeria",
+          "date": "25 May 2021",
+          "access-date": "26 May 2021",
+          "archive-date": "24 May 2021",
+          "archive-url": "https://web.archive.org/web/20210524220226/http://www.theguardian.com/world/2021/may/24/mali-president-prime-minister-and-defence-minister-arrested-sources-say",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Assimi Goïta was born in 1983."
+            },
+            {
+              "text": "The son of an officer of the Malian Armed Forces, he was trained in the military academies of Mali and notably attended the and the Joint Military School in Koulikoro.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Malian Armed Forces"
+                },
+                {
+                  "text": "Joint Military School in Koulikoro",
+                  "type": "internal",
+                  "page": "Joint Military School (Mali)"
+                }
+              ]
+            },
+            {
+              "text": "He is married to Lala Diallo, who is a member of the Fula people.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fula people"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Goïta served as a colonel in the Autonomous Special Forces Battalion, the special forces unit of the Malian Armed Forces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Malian Armed Forces"
+                }
+              ]
+            },
+            {
+              "text": "He heads the Malian special forces in the center of the country with the rank of colonel."
+            },
+            {
+              "text": "He is thus confronted with the jihadist insurgency in Mali.",
+              "links": [
+                {
+                  "text": "jihadist insurgency in Mali",
+                  "type": "internal",
+                  "page": "Mali War"
+                }
+              ]
+            },
+            {
+              "text": "In 2018, he met Mamady Doumbouya, from Guinea, in Burkina Faso during a training session organised by the US army, which was reserved for the region's special forces commanders.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mamady Doumbouya"
+                },
+                {
+                  "type": "internal",
+                  "page": "Guinea"
+                }
+              ]
+            },
+            {
+              "text": "Both he and Mamady Doumbouya would later launch military coups against their governments."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Goïta serves as the leader of the National Committee for the Salvation of the People, a group of rebels who overthrew Ibrahim Boubacar Keïta in the 2020 Malian coup d'état, and have pledged to initiate new elections to replace him.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ibrahim Boubacar Keïta"
+                },
+                {
+                  "text": "2020 Malian coup d'état",
+                  "type": "internal",
+                  "page": "2020 Malian coup d'état"
+                }
+              ]
+            },
+            {
+              "text": "Because of this pledge, the Economic Community of West African States (ECOWAS) pressured Mali's ruling junta for the country to be led by a civilian.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Economic Community of West African States"
+                }
+              ]
+            },
+            {
+              "text": "On 21 September he was named vice president by a group of 17 electors, with Bah Ndaw being appointed president.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bah Ndaw"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed vice president of the Transition on 21 September 2020, a position he will hold for 18 months, until new elections."
+            },
+            {
+              "text": "He took the oath of office on 25 September 2020."
+            },
+            {
+              "text": "On 1 October 2020, the \"Mali Transition Letter\" was published where it was specified, in response to the request of the ECOWAS, that the vice president \"in charge of defense and security issues\" would not be able to replace President Bah Ndaw."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Goïta received training from the United States, France, and Germany, and had experience working with United States Army Special Forces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States Army Special Forces"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 24 May 2021, Goïta was involved in the 2021 Malian coup d'état, after which he seized power.",
+              "links": [
+                {
+                  "text": "2021 Malian coup d'état",
+                  "type": "internal",
+                  "page": "2021 Malian coup d'état"
+                }
+              ]
+            },
+            {
+              "text": "President Ndaw and Prime Minister Moctar Ouane were detained.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Moctar Ouane"
+                }
+              ]
+            },
+            {
+              "text": "Goïta claimed that Ndaw was attempting to \"sabotage\" the transition to democracy, and committed to elections in 2022."
+            },
+            {
+              "text": "The coup was instigated by Goïta's claim that Ndaw failed to consult him about a cabinet reshuffle."
+            },
+            {
+              "text": "It was alleged that one of the motives for the latest coup was the removal of Colonel Sadio Camara as defense minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sadio Camara"
+                }
+              ]
+            },
+            {
+              "text": "Camara was appointed again as defense minister by Goïta upon taking over again."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 28 May 2021, the constitutional court declared him interim president of Mali."
+            },
+            {
+              "text": "The court ruling stated that Goïta should carry the title \"president of the transition, head of state\" to \"lead the transition process to its conclusion\"."
+            },
+            {
+              "text": "On the same day, he said that he would name a prime minister from the M5-RFP coalition."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Prytanée militaire de Kati",
+            "fr"
+          ],
+          "template": "interlanguage link"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.malicanal.com/qui-est-assimi-goita/",
+          "title": "Qui est Assimi Goïta, le chef de la junte au Mali",
+          "trans-title": "Who is Assimi Goïta, the head of the junta in Mali",
+          "website": "malicanal.com",
+          "access-date": "31 August 2020",
+          "language": "fr",
+          "archive-date": "16 September 2020",
+          "archive-url": "https://web.archive.org/web/20200916154801/https://www.malicanal.com/qui-est-assimi-goita/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.rfi.fr/fr/afrique/20200821-colonel-assimi-go%C3%AF-t%C3%AAte-junte-militaire-mali",
+          "title": "Qui est le colonel Assimi Goïta, à la tête de la junte militaire au Mali?",
+          "trans-title": "Who is Colonel Assimi Goïta, at the head of the military junta in Mali?",
+          "website": "rfi.fr",
+          "date": "21 August 2020",
+          "access-date": "31 August 2020",
+          "language": "fr",
+          "archive-date": "16 September 2020",
+          "archive-url": "https://web.archive.org/web/20200916155439/https://www.rfi.fr/fr/afrique/20200821-colonel-assimi-go%C3%AF-t%C3%AAte-junte-militaire-mali",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.tellerreport.com/news/2020-08-19-in-mali--colonel-assimi-goita-is-put-in-charge-of-the-rebels.ryHHjGyjzD.html",
+          "title": "In Mali, Colonel Assimi Goita is put in charge of the rebels",
+          "website": "tellerreport.com",
+          "date": "19 August 2020",
+          "access-date": "19 August 2020",
+          "archive-date": "26 August 2020",
+          "archive-url": "https://web.archive.org/web/20200826154520/https://www.tellerreport.com/news/2020-08-19-in-mali--colonel-assimi-goita-is-put-in-charge-of-the-rebels.ryHHjGyjzD.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.lepoint.fr/monde/coup-d-etat-au-mali-l-afrique-de-l-ouest-se-penche-sur-une-situation-grave-20-08-2020-2388418_24.php#",
+          "title": "Coup d'Etat au Mali: l'Afrique de l'Ouest se penche sur une situation \"grave\"",
+          "trans-title": "Coup d'Etat in Mali: West Africa looks into a \"serious\" situation",
+          "publisher": "Le Point",
+          "date": "20 August 2020",
+          "access-date": "31 August 2020",
+          "language": "fr",
+          "archive-date": "20 September 2020",
+          "archive-url": "https://web.archive.org/web/20200920085910/https://www.lepoint.fr/monde/coup-d-etat-au-mali-l-afrique-de-l-ouest-se-penche-sur-une-situation-grave-20-08-2020-2388418_24.php",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bbc.com/news/world-africa-58761621",
+          "title": "Mamady Doumbouya: Guinea coup leader sworn in as president",
+          "work": "BBC News",
+          "date": "October 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.nytimes.com/2020/08/19/world/africa/mali-military-coup.html",
+          "title": "Mali Coup Leaders Pledge Democracy After Deposing President",
+          "work": "The New York Times",
+          "last1": "Maclean",
+          "first1": "Ruth",
+          "last2": "Peltier",
+          "first2": "Elian",
+          "date": "19 August 2020",
+          "access-date": "19 August 2020",
+          "language": "en-US",
+          "issn": "0362-4331",
+          "archive-date": "19 August 2020",
+          "archive-url": "https://web.archive.org/web/20200819161633/https://www.nytimes.com/2020/08/19/world/africa/mali-military-coup.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.urdupoint.com/en/world/mali-rebels-choose-col-assimi-goita-as-leade-1006200.html",
+          "title": "Mali Rebels Choose Col. Assimi Goita As Leader - Reports",
+          "publisher": "UrduPoint",
+          "last": "Hashmi",
+          "first": "Faizan",
+          "date": "19 August 2020",
+          "access-date": "19 August 2020",
+          "archive-date": "23 August 2020",
+          "archive-url": "https://web.archive.org/web/20200823014902/https://www.urdupoint.com/en/world/mali-rebels-choose-col-assimi-goita-as-leade-1006200.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2020/09/ba-named-mali-interim-president-colonel-named-vp-200921145418103.html",
+          "archive-url": "https://web.archive.org/web/20200922081447/https://www.aljazeera.com/news/2020/09/ba-named-mali-interim-president-colonel-named-vp-200921145418103.html",
+          "title": "Bah Ndaw named Mali's interim president, colonel named VP",
+          "publisher": "Al Jazeera",
+          "date": "21 September 2020",
+          "archive-date": "22 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.rfi.fr/fr/afrique/20200921-l-ex-ministre-la-d%C3%A9fense-Bah-N-Daw-d%C3%A9sign%C3%A9-pr%C3%A9sident-transition-mali",
+          "title": "Mali: l'ex-ministre de la Défense Bah N'Daw désigné président de transition",
+          "trans-title": "Mali: former Minister of Defense Bah N'Daw appointed transitional president",
+          "publisher": "RFI",
+          "date": "21 September 2020",
+          "access-date": "19 December 2020",
+          "language": "fr",
+          "archive-date": "29 January 2021",
+          "archive-url": "https://web.archive.org/web/20210129094318/https://www.rfi.fr/fr/afrique/20200921-l-ex-ministre-la-d%C3%A9fense-Bah-N-Daw-d%C3%A9sign%C3%A9-pr%C3%A9sident-transition-mali",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://french.china.org.cn/foreign/txt/2020-09/22/content_76726638.htm",
+          "title": "Mali: un ancien ministre de la Défense désigné président de transition du Mali",
+          "trans-title": "Mali: a former Minister of Defense appointed transitional president of Mali",
+          "website": "french.china.org.cn",
+          "date": "22 September 2020",
+          "access-date": "19 December 2020",
+          "language": "fr",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20210721151404/http://french.china.org.cn/foreign/txt/2020-09/22/content_76726638.htm",
+          "archive-date": "21 July 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.rfi.fr/fr/afrique/20200925-mali-le-pr%C3%A9sident-la-transition-bah-n-daw-a-pr%C3%AAt%C3%A9-serment",
+          "title": "Mali: le président de la transition, Bah N'Daw, a prêté serment",
+          "trans-title": "Mali: the president of the transition, Bah N'Daw, is sworn in",
+          "publisher": "RFI",
+          "date": "25 September 2020",
+          "access-date": "19 December 2020",
+          "language": "fr",
+          "archive-date": "28 October 2020",
+          "archive-url": "https://web.archive.org/web/20201028122656/https://www.rfi.fr/fr/afrique/20200925-mali-le-pr%C3%A9sident-la-transition-bah-n-daw-a-pr%C3%AAt%C3%A9-serment",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.lemonde.fr/afrique/article/2020/10/06/au-mali-des-militaires-aux-postes-cles-du-gouvernement-de-transition_6054909_3212.html",
+          "title": "Au Mali, des militaires aux postes-clés du gouvernement de transition",
+          "trans-title": "In Mali, soldiers in key positions in the transitional government",
+          "publisher": "Le Monde",
+          "date": "6 October 2020",
+          "access-date": "9 May 2021",
+          "language": "fr",
+          "archive-date": "30 April 2021",
+          "archive-url": "https://web.archive.org/web/20210430215815/https://www.lemonde.fr/afrique/article/2020/10/06/au-mali-des-militaires-aux-postes-cles-du-gouvernement-de-transition_6054909_3212.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Paquette",
+          "first1": "Danielle",
+          "title": "Mali coup leader was trained by U.S. military, officers say",
+          "url": "https://www.msn.com/en-us/news/world/mali-coup-leader-was-trained-by-us-military-officers-say/ar-BB18dXcN",
+          "website": "msn.com",
+          "publisher": "The Washington Post",
+          "date": "21 August 2020",
+          "access-date": "22 August 2020",
+          "archive-date": "22 August 2020",
+          "archive-url": "https://web.archive.org/web/20200822222020/https://www.msn.com/en-us/news/world/mali-coup-leader-was-trained-by-us-military-officers-say/ar-BB18dXcN",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Ogunkeye",
+          "first": "Erin",
+          "date": "25 May 2021",
+          "title": "Mali junta leader says transitional president, PM have been stripped of duties",
+          "work": "France 24",
+          "url": "http://www.france24.com/en/africa/20210525-mali-junta-leader-says-transitional-president-pm-have-been-stripped-of-duties",
+          "access-date": "26 May 2021",
+          "archive-date": "25 May 2021",
+          "archive-url": "https://web.archive.org/web/20210525133340/http://www.france24.com/en/africa/20210525-mali-junta-leader-says-transitional-president-pm-have-been-stripped-of-duties",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Mali transitional government restores ousted Camara as defence minister",
+          "url": "https://www.reuters.com/article/ozatp-uk-mali-politics-idAFKCN2DO04C-OZATP",
+          "access-date": "20 July 2021",
+          "work": "Reuters",
+          "date": "12 June 2021",
+          "archive-date": "21 July 2021",
+          "archive-url": "https://web.archive.org/web/20210721151411/https://www.reuters.com/article/ozatp-uk-mali-politics-idAFKCN2DO04C-OZATP",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.lexpress.fr/actualite/monde/afrique/qui-est-le-colonel-assimi-goita-nouvel-homme-fort-du-mali-apres-le-putsch-militaire_2133173.html",
+          "title": "Qui est le colonel Assimi Goita, nouvel homme fort du Mali après le putsch militaire?",
+          "trans-title": "Who is Colonel Assimi Goita, Mali's new strongman after the military putsch?",
+          "publisher": "L'Express",
+          "date": "20 August 2020",
+          "access-date": "31 August 2020",
+          "language": "fr",
+          "archive-date": "19 September 2020",
+          "archive-url": "https://web.archive.org/web/20200919220322/https://www.lexpress.fr/actualite/monde/afrique/qui-est-le-colonel-assimi-goita-nouvel-homme-fort-du-mali-apres-le-putsch-militaire_2133173.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "first": "Justin",
+          "last": "Coulibaly",
+          "title": "Epouse du colonel Assimi Goïta, Lala Diallo enflamme la Toile",
+          "url": "https://www.afrik.com/epouse-du-colonel-assimi-goita-lala-diallo-enflamme-la-toile",
+          "work": "Afrik.com",
+          "date": "6 August 2021",
+          "access-date": "21 July 2021",
+          "archive-url": "https://web.archive.org/web/20210608080632/https://www.afrik.com/epouse-du-colonel-assimi-goita-lala-diallo-enflamme-la-toile",
+          "archive-date": "8 June 2021",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.france24.com/en/20200921-ex-defence-minister-appointed-mali-interim-president-junta-leader-named-vp",
+          "title": "Ex-defence minister appointed Mali interim president, junta leader named VP",
+          "publisher": "France 24",
+          "date": "21 September 2020",
+          "access-date": "9 May 2021",
+          "language": "en",
+          "archive-date": "9 May 2021",
+          "archive-url": "https://web.archive.org/web/20210509173219/https://www.france24.com/en/20200921-ex-defence-minister-appointed-mali-interim-president-junta-leader-named-vp",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Mali's top court declares coup leader Goita as interim president",
+          "url": "https://www.reuters.com/world/africa/malis-top-court-declares-coup-leader-goita-interim-president-2021-05-28/",
+          "access-date": "29 May 2021",
+          "work": "Reuters",
+          "date": "29 May 2021",
+          "archive-date": "28 May 2021",
+          "archive-url": "https://web.archive.org/web/20210528233225/https://www.reuters.com/world/africa/malis-top-court-declares-coup-leader-goita-interim-president-2021-05-28/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Mali vice president named interim leader in coup-within-a-coup",
+          "url": "https://www.dw.com/en/mali-vice-president-named-interim-leader-in-coup-within-a-coup/a-57710200",
+          "access-date": "29 May 2021",
+          "work": "Deutsche Welle",
+          "date": "29 May 2021",
+          "archive-date": "29 May 2021",
+          "archive-url": "https://web.archive.org/web/20210529032518/https://www.dw.com/en/mali-vice-president-named-interim-leader-in-coup-within-a-coup/a-57710200",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Assassination attempt",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 20 July 2021, during an assassination attempt, Goïta was attacked by a knifeman while praying at the Grand Mosque in Bamako amid festivities for the Eid al-Adha.",
+              "links": [
+                {
+                  "text": "assassination",
+                  "type": "internal",
+                  "page": "assassination"
+                },
+                {
+                  "text": "Grand Mosque",
+                  "type": "internal",
+                  "page": "Grand Mosque of Bamako"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bamako"
+                },
+                {
+                  "type": "internal",
+                  "page": "Eid al-Adha"
+                }
+              ]
+            },
+            {
+              "text": "The attacker was then immediately arrested after failing to stab the President."
+            },
+            {
+              "text": "Overall two men were arrested by the security forces."
+            },
+            {
+              "text": "One of them was however found to be a special forces soldier wrongly assumed to be the attacker's accomplice."
+            },
+            {
+              "text": "The knifeman, identified as a teacher, died in custody five days after the attack."
+            },
+            {
+              "text": "The cause of death is unknown."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Mali says President Assimi Goita survives assassination attempt",
+          "url": "https://www.dw.com/en/mali-says-president-assimi-goita-survives-assassination-attempt/a-58376438",
+          "access-date": "20 July 2021",
+          "work": "Deutsche Welle",
+          "date": "20 July 2021",
+          "archive-date": "20 July 2021",
+          "archive-url": "https://web.archive.org/web/20210720120500/https://www.dw.com/en/mali-says-president-assimi-goita-survives-assassination-attempt/a-58376438",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.france24.com/en/live-news/20210720-mali-s-interim-president-goita-targeted-in-knife-attack-at-bamako-mosque",
+          "title": "Mali's interim president Goïta doing 'very well' after assassination attempt",
+          "work": "France 24, Agence France-Presse",
+          "publisher": "France 24",
+          "date": "20 July 2021",
+          "access-date": "20 July 2021",
+          "archive-date": "20 July 2021",
+          "archive-url": "https://web.archive.org/web/20210720105722/https://www.france24.com/en/live-news/20210720-mali-s-interim-president-goita-targeted-in-knife-attack-at-bamako-mosque",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "first1": "Tiemoko",
+          "last1": "Diallo",
+          "first2": "Paul",
+          "last2": "Lorgerie",
+          "first3": "Bate",
+          "last3": "Felix",
+          "first4": "Diadie",
+          "last4": "Ba",
+          "first5": "Cooper",
+          "last5": "Inveen",
+          "url": "https://www.reuters.com/world/africa/mali-presidency-says-president-goita-targeted-by-stabbing-attack-2021-07-20/",
+          "title": "Mali leader says he was unharmed in 'isolated action' knife attack",
+          "work": "Reuters",
+          "date": "20 July 2021",
+          "access-date": "20 July 2021",
+          "archive-date": "20 July 2021",
+          "archive-url": "https://web.archive.org/web/20210720115728/https://www.reuters.com/world/africa/mali-presidency-says-president-goita-targeted-by-stabbing-attack-2021-07-20/",
+          "url-status": "live",
+          "url-access": "registration",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "first1": "Fatoumata",
+          "last1": "Diallo",
+          "first2": "Manon",
+          "last2": "Laplace",
+          "url": "https://www.theafricareport.com/111458/mali-an-investigation-has-been-opened-into-assimi-goitas-attempted-assassination//",
+          "title": "Mali: An investigation into head of state Assimi Goïta's attempted assassination",
+          "work": "The Africa Report",
+          "date": "23 July 2021",
+          "access-date": "9 September 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2021/7/26/man-accused-of-trying-to-kill-mali-president-dies-in-custody",
+          "title": "Man accused of trying to kill Mali president dies in custody",
+          "work": "Agence France-Presse",
+          "publisher": "Al Jazeera",
+          "date": "26 July 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "wikiquote"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Ibrahim Boubacar Keïta",
+          "as": "President of Mali",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chairman of the National Committee for the Salvation of the People of Mali",
+          "years": "2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Bah Ndaw",
+          "as": "Interim President of Mali",
+          "template": "s-aft"
+        },
+        {
+          "template": "malipresidents"
+        },
+        {
+          "template": "heads of state of republics"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

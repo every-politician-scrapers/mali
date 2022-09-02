@@ -1,0 +1,172 @@
+{
+  "title": "Tiéfing Konaté",
+  "pageID": 36302970,
+  "categories": [
+    "Government ministers of Mali",
+    "Living people",
+    "1954 births",
+    "21st-century Malian people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "General Tiéfing Konaté (born 1954) is a Malian politician and soldier.",
+              "formatting": {
+                "bold": [
+                  "Tiéfing Konaté"
+                ]
+              }
+            },
+            {
+              "text": "He has been the Minister of Internal Security and Civilian Protection of Mali since 24 April 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mali"
+                }
+              ]
+            },
+            {
+              "text": "He is a graduate of the Joint Military Academy in Kati.",
+              "links": [
+                {
+                  "text": "Kati",
+                  "type": "internal",
+                  "page": "Kati, Mali"
+                }
+              ]
+            },
+            {
+              "text": "Between 1993 and 1994, he was in charge of the Presidency of the Republic and then Chief of Staff of the National Gendarmerie between 1994 and 2000."
+            },
+            {
+              "text": "He then served as technical adviser to the Ministry of Internal Security and Protection Civilian between 2000 and 2008, before being appointed director of the National Gendarmerie, a position he held between 2008 and 2011."
+            },
+            {
+              "text": "He also served as the Ambassador of Mali to Russia since June 2016."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Malian politician and soldier",
+          "template": "short description"
+        },
+        {
+          "date": "September 2014",
+          "template": "orphan"
+        },
+        {
+          "year": "1954",
+          "month": "09",
+          "day": "30",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tiéfing Konaté"
+          },
+          "image": {
+            "text": "Tiéfing Konaté.jpg"
+          },
+          "birth_date": {
+            "text": "September 30, 1954"
+          },
+          "birth_place": {
+            "text": "Bamako, French Sudan (now Mali)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bamako"
+              },
+              {
+                "type": "internal",
+                "page": "French Sudan"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Internal Security and Civilian Protection"
+          },
+          "term_start": {
+            "text": "24 April 2012"
+          },
+          "term_end": {
+            "text": "September 2013"
+          },
+          "predecessor": {
+            "text": "Sadio Gassama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sadio Gassama"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Sada Samaké"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.primature.gov.ml/index.php?option=com_content&view=article&id=8421&Itemid=100013",
+          "title": "Le Gouvernement du mardi 24 avril 2012",
+          "date": "2012-04-26",
+          "accessdate": "2012-07-02",
+          "work": "Primature",
+          "publisher": "Government of Mali",
+          "language": "French",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20120514143954/http://www.primature.gov.ml/index.php?option=com_content&view=article&id=8421&Itemid=100013",
+          "archivedate": "2012-05-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://malijet.com/people-mali/qui-est-qui-au-mali/qui-est-qui-en-politique/65006-general-tiefing-konate.html",
+          "title": "General Tiefing Konaté",
+          "publisher": "Malijet",
+          "language": "French",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.malinet.net/flash-info/nouvel-ambassadeur-du-mali-en-russie-la-diplomatie-economique-du-general-konate/",
+          "title": "Nouvel ambassadeur du Mali en Russie : La diplomatie économique du Général Konaté",
+          "language": "French",
+          "publisher": "Malinet",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "mali-politician-stub"
+        }
+      ]
+    }
+  ]
+}
