@@ -173,7 +173,13 @@
               "text": "He then served as a Representative in Swaziland, Burundi, and Uganda."
             },
             {
-              "text": "He was Chief Negotiator for the ratification of Children's Rights in Swaziland to King Mswati III."
+              "text": "He was Chief Negotiator for the ratification of Children's Rights in Swaziland to King Mswati III.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mswati III"
+                }
+              ]
             },
             {
               "text": "In Burundi, he contributed to the lifting of the embargo; he negotiated the creation of a humanitarian corridor for the delivery of vaccines and medicines essential to the survival of the population; he launched with President Buyoya the Temporary Schools Program to ensure the education of children displaced by the war."
