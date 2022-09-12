@@ -249,11 +249,11 @@
             "text": "c. undefined 1983 (age 39)"
           },
           "birth_place": {
-            "text": "Mali",
+            "text": "Bamako",
             "links": [
               {
                 "type": "internal",
-                "page": "Mali"
+                "page": "Bamako"
               }
             ]
           },
@@ -526,6 +526,15 @@
               "text": "On the same day, he said that he would name a prime minister from the M5-RFP coalition."
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Linda_Thomas-Greenfield_met_with_Malian_Transition_President_Goïta_-_2021.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Linda_Thomas-Greenfield_met_with_Malian_Transition_President_Go%C3%AFta_-_2021.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Linda_Thomas-Greenfield_met_with_Malian_Transition_President_Go%C3%AFta_-_2021.jpg",
+          "caption": "Linda Thomas-Greenfield with the Malian president in 2021",
+          "links": []
         }
       ],
       "templates": [
