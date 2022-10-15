@@ -1,0 +1,22 @@
+{
+    "jurisdiction": {
+        "name": "Mali",
+        "id": "Q912"
+    },
+    "cabinet": {
+      "id":     "Q109037596",
+      "start":  "2021-06-11",
+      "end":    "2021-06-14",
+      "parent": "Q5176452"
+    },
+    "reference": {
+        "P854":   "https://www.apanews.net/en/news/mali-has-new-transitional-govt",
+        "P1476": {
+            "text": "Mali has new transitional govt",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "politician in Mali"
+    }
+}
