@@ -1,0 +1,19 @@
+{
+    "jurisdiction": {
+        "name": "Mali",
+        "id": "Q912"
+    },
+    "cabinet": {
+      "id":     "Q109037596",
+      "start":  "2021-06-11",
+      "end":    "2021-07-01",
+      "parent": "Q5176452"
+    },
+    "reference": {
+        "P4656": "https://fr.wikipedia.org/wiki/Gouvernement_Choguel_Kokalla_Ma%C3%AFga"
+    },
+    "lang": "fr",
+    "person_description": {
+        "en": "politician in Mali"
+    }
+}
