@@ -1,0 +1,258 @@
+{
+  "title": "Ismaël Wagué",
+  "pageID": 65002050,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Malian military personnel",
+    "Malian politicians",
+    "Living people",
+    "21st-century Malian people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ismaël Wagué is a Malian military officer serving as the Deputy Chief of Staff of the Malian Air Force of the Malian Armed Forces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Malian Air Force"
+                },
+                {
+                  "type": "internal",
+                  "page": "Malian Armed Forces"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ismaël Wagué"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After the 2020 Malian coup d'état, he became spokesperson for the.",
+              "links": [
+                {
+                  "text": "2020 Malian coup d'état",
+                  "type": "internal",
+                  "page": "2020 Malian coup d'état"
+                }
+              ]
+            },
+            {
+              "text": "Wagué gave an interview on France 24, wherein he claimed that the actions of the Malian military was not a coup.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "France 24"
+                }
+              ]
+            },
+            {
+              "text": "He has also pledged that the National Committee for the Salvation of the People will seek a leader to transition Mali from military to civilian rule."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Colonel-Major Ismaël Wagué was appointed to the position of Deputy Chief of Staff of the Air Force in 2019 by president Ibrahim Boubacar Keïta after a series of dismissals in response to a terrorist attack that killed 26 soldiers in Northern Mali.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ibrahim Boubacar Keïta"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Malian military officer and politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "National Committee for the Salvation of the People",
+            "fr",
+            "Comité national pour le salut du peuple"
+          ],
+          "template": "interlanguage link"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Comité national pour le salut du Peuple - Ismaël Wagué (cropped).jpg"
+          },
+          "name": {
+            "text": "Ismaël Wagué"
+          },
+          "allegiance": {
+            "text": "🇲🇱 Mali",
+            "links": [
+              {
+                "text": "Mali",
+                "type": "internal",
+                "page": "mali"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Malian Air Force",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Malian Air Force"
+              }
+            ]
+          },
+          "office": {
+            "text": "Spokesman for the National Committee for the Salvation of the People",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Committee for the Salvation of the People"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "19 August 2020"
+          },
+          "predecessor": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
+          },
+          "leader": {
+            "text": "Assimi Goïta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Assimi Goïta"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.cnews.fr/monde/2020-08-19/tout-comprendre-sur-la-situation-au-mali-990104",
+          "title": "Tout comprendre sur la situation au Mali",
+          "trans-title": "Understanding everything about the situation in Mali",
+          "publisher": "CNews",
+          "date": "August 19, 2020",
+          "access-date": "August 19, 2020",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2020/08/mali-soldiers-promise-elections-coup-200819094832716.html",
+          "title": "Mali coup leaders promise elections after Keita overthrow",
+          "publisher": "Al Jazeera",
+          "date": "August 19, 2020",
+          "access-date": "August 19, 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Maclean",
+          "first": "Ruth",
+          "last2": "Diouara",
+          "first2": "Cheick Amadou",
+          "last3": "Peltier",
+          "first3": "Elian",
+          "date": "2020-08-19",
+          "title": "Mali Coup Leaders Pledge Democracy After Deposing President",
+          "language": "en-US",
+          "work": "The New York Times",
+          "url": "https://www.nytimes.com/2020/08/19/world/africa/mali-military-coup.html",
+          "access-date": "2020-08-21",
+          "issn": "0362-4331",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2020-08-21",
+          "title": "‘There has been no coup d’état in Mali’ – Ismaël Wagué, CNSP spox",
+          "url": "https://www.theafricareport.com/38723/there-has-been-no-coup-detat-in-mali-ismael-wague-cnsp-spox/",
+          "access-date": "2020-08-21",
+          "website": "The Africa Report.com",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-08-21",
+          "title": "Mali’s junta spokesman promises transition to civilian rule",
+          "url": "https://www.everythinglubbock.com/news/international/malis-junta-spokesman-promises-transition-to-civilian-rule/",
+          "access-date": "2020-08-21",
+          "website": "KLBK {{!}} KAMC {{!}} EverythingLubbock.com",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "agency": "Associated Press",
+          "date": "2020-08-19",
+          "title": "Global Leaders Condemn Mali Coup Amid Worry About Extremists",
+          "language": "en-US",
+          "work": "The New York Times",
+          "url": "https://www.nytimes.com/aponline/2020/08/19/world/africa/ap-af-mali-crisis.html",
+          "access-date": "2020-08-21",
+          "issn": "0362-4331",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "agency": "Associated Press",
+          "date": "2020-08-21",
+          "title": "Hundreds in Mali's Capital Welcome President's Downfall",
+          "language": "en-US",
+          "work": "The New York Times",
+          "url": "https://www.nytimes.com/aponline/2020/08/21/world/africa/ap-af-mali-crisis.html",
+          "access-date": "2020-08-21",
+          "issn": "0362-4331",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://news.abamako.com/h/210189.html",
+          "title": "Mali : Le patron des armées limogé après la mort de 23 soldats et 160 civils dans le Centre",
+          "trans-title": "Mali: The boss of the armies sacked after the death of 23 soldiers and 160 civilians in the Center",
+          "website": "aBamako.com",
+          "date": "March 29, 2020",
+          "access-date": "August 21, 2020",
+          "language": "fr",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "mali-politician-stub"
+        }
+      ]
+    }
+  ]
+}
