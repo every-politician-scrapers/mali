@@ -1,33 +1,33 @@
-item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended
-Q98915395,Agriculture Minister of Mali,,,Q912,,,
-Q114674155,Minister Delegate to the Minister of Health,,,Q912,Q912,,
-Q114674158,Minister Delegate to the Minister of Rural Development,,,Q912,Q912,,
-Q114674154,"Minister Delegate to the Prime Minister, in charge of Political and Institutional Reforms",,,Q912,Q912,,
-Q113669477,Minister of Communications of Mali,,,Q912,Q912,,
-Q114674120,Minister of Culture and Tourism,,,Q912,Q912,,
-Q98915482,Minister of Defence of Mali,,,Q912,,,
-Q98914328,Minister of Economy and Finance of Mali,,,Q912,,,
-Q113669470,Minister of Education of Mali,,,Q912,Q912,,
-Q114674111,"Minister of Entrepreneurship, Employment, and Training",,,Q912,Q912,,
-Q2101065,Minister of Foreign Affairs,,,Q912,Q912,,
-Q98915776,Minister of Health of Mali,Q21039417,Ministry of Public Health and Hygiene,Q912,Q912,,
-Q114674107,Minister of Higher Education and Scientific Research,,,Q912,Q912,,
-Q113669367,Minister of Human Rights of Mali,,,Q912,Q912,,
-Q114674116,Minister of Industry and Trade,,,Q912,Q912,,
-Q113669378,Minister of Information of Mali,Q112167502,Ministry of Information of Mali,,Q912,,
-Q64029451,Minister of Internal Security and Civil Protection,,,Q912,Q912,,
-Q113669387,Minister of Justice of Mali,Q55648360,Ministry of Justice (Mali),,Q912,,
-Q114674151,Minister of Labour,,,Q912,Q912,,
-Q114674125,Minister of Malians Abroad and African Integration,,,Q912,Q912,,
-Q114674147,"Minister of Mining, Energy, and Water",,,Q912,Q912,,
-Q114674142,Minister of Reconciliation,,,Q912,Q912,,
-Q114674143,Minister of Religious Affairs,,,Q912,Q912,,
-Q114674150,Minister of Rural Development,,,Q912,Q912,,
-Q114674140,Minister of State Reforms,,,Q912,Q912,,
-Q113669399,Minister of Territorial Administration and Decentralisation of Mali,,,Q912,Q912,,
-Q114674117,Minister of Town Planning and Housing,,,Q912,Q912,,
-Q114674148,Minister of Transport and Infrastructure,,,Q912,Q912,,
-Q114674127,"Minister of Women, Children, and the Family",,,Q912,Q912,,
-Q114674122,Minister of Youth and Sport,,,Q912,Q912,,
-Q114674113,Minister of the Environment,,,Q912,Q912,,
-Q30100640,Prime Minister of Mali,,,Q912,Q912,1960,
+item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended,holders
+Q98915395,Agriculture Minister of Mali,,,Q912,,,,5
+Q114674155,Minister Delegate to the Minister of Health,,,Q912,Q912,,,1
+Q114674158,Minister Delegate to the Minister of Rural Development,,,Q912,Q912,,,1
+Q114674154,"Minister Delegate to the Prime Minister, in charge of Political and Institutional Reforms",,,Q912,Q912,,,1
+Q113669477,Minister of Communications of Mali,,,Q912,Q912,,,2
+Q114674120,Minister of Culture and Tourism,,,Q912,Q912,,,1
+Q98915482,Minister of Defence of Mali,,,Q912,,,,13
+Q98914328,Minister of Economy and Finance of Mali,,,Q912,,,,13
+Q113669470,Minister of Education of Mali,,,Q912,Q912,,,2
+Q114674111,"Minister of Entrepreneurship, Employment, and Training",,,Q912,Q912,,,1
+Q2101065,Minister of Foreign Affairs,,,Q912,Q912,,,22
+Q98915776,Minister of Health of Mali,Q21039417,Ministry of Public Health and Hygiene,Q912,Q912,,,11
+Q114674107,Minister of Higher Education and Scientific Research,,,Q912,Q912,,,1
+Q113669367,Minister of Human Rights of Mali,,,Q912,Q912,,,1
+Q114674116,Minister of Industry and Trade,,,Q912,Q912,,,1
+Q113669378,Minister of Information of Mali,Q112167502,Ministry of Information of Mali,,Q912,,,0
+Q64029451,Minister of Internal Security and Civil Protection,,,Q912,Q912,,,6
+Q113669387,Minister of Justice of Mali,Q55648360,Ministry of Justice (Mali),,Q912,,,1
+Q114674151,Minister of Labour,,,Q912,Q912,,,1
+Q114674125,Minister of Malians Abroad and African Integration,,,Q912,Q912,,,1
+Q114674147,"Minister of Mining, Energy, and Water",,,Q912,Q912,,,1
+Q114674142,Minister of Reconciliation,,,Q912,Q912,,,1
+Q114674143,Minister of Religious Affairs,,,Q912,Q912,,,1
+Q114674150,Minister of Rural Development,,,Q912,Q912,,,1
+Q114674140,Minister of State Reforms,,,Q912,Q912,,,1
+Q113669399,Minister of Territorial Administration and Decentralisation of Mali,,,Q912,Q912,,,1
+Q114674117,Minister of Town Planning and Housing,,,Q912,Q912,,,1
+Q114674148,Minister of Transport and Infrastructure,,,Q912,Q912,,,1
+Q114674127,"Minister of Women, Children, and the Family",,,Q912,Q912,,,1
+Q114674122,Minister of Youth and Sport,,,Q912,Q912,,,1
+Q114674113,Minister of the Environment,,,Q912,Q912,,,1
+Q30100640,Prime Minister of Mali,,,Q912,Q912,1960,,22
